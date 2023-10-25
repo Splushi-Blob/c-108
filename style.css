@@ -1,0 +1,22 @@
+.body {
+  background-color: antiquewhite;
+  font-family: 'Are You Serious', cursive;
+font-family: 'Roboto', sans-serif;
+
+}
+.button {
+  background-color: green;
+  color: antiquewhite;
+}
+.header_div {
+  top: 40%;
+  border: black;
+  border-style: dashed;
+  border-width: 3px;
+}
+.main_div {
+  top: 40%;
+  border: black;
+  border-style: dashed;
+  border-width: 3px;
+}
